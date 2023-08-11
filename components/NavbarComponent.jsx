@@ -26,6 +26,7 @@ export function NavbarComponent() {
                         <Nav className="me-auto">
 
                             {Navigation.map((item) => (
+                                // eslint-disable-next-line react/jsx-key
                                 <Nav.Link as={Link} href={item.href}>{item.name}</Nav.Link>
                             ))}
                         </Nav>
