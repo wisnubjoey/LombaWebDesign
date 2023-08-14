@@ -13,7 +13,7 @@ export default function Hubungi() {
                         </div>
                         <h3 className="fs-2 text-body-emphasis">Discord</h3>
                         <p>BjoeyR</p>
-                        <a href="https://discord.com/" className="icon-link">
+                        <a href="https://discord.gg/pmgucZag" className="icon-link">
                             Click this
                         </a>
                     </div>
